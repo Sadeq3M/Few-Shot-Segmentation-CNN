@@ -31,8 +31,6 @@ The goal is to build a robust deep learning model capable of recognizing differe
 - OpenCV
 - Matplotlib
 
-> *(You may optionally add a `requirements.txt` file to install dependencies.)*
-
 ## 🚀 How to Run
 
 1. Download the [MIT Indoor Scenes Dataset](https://web.mit.edu/torralba/www/indoor.html?ref=hackernoon.com) and place it in the project directory.
